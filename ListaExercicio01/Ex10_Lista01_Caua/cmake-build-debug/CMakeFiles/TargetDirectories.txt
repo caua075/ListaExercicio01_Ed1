@@ -1,0 +1,3 @@
+C:/Users/Buiu/CLionProjects/ListaExercicio01/Ex10_Lista01_Caua/cmake-build-debug/CMakeFiles/Ex10_Lista01_Caua.dir
+C:/Users/Buiu/CLionProjects/ListaExercicio01/Ex10_Lista01_Caua/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Buiu/CLionProjects/ListaExercicio01/Ex10_Lista01_Caua/cmake-build-debug/CMakeFiles/rebuild_cache.dir
